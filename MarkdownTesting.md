@@ -51,14 +51,14 @@ See Week 1 Day 4 unit: “Basic CLI Commands and Running Python Code from Termin
 
 Provide the student with tape measures or yard sticks.  Students will measure the path and write function calls in python program to make the STEMBot travel the through the maze ending in the destination box. 
 # MATERIALS AND RESOURCES
-STEMBot(s) 
+*STEMBot(s) 
 
-Computer(s) 
+*Computer(s) 
 
-Internet (Optional if the STEMBot has its own router) 
+*Internet (Optional if the STEMBot has its own router) 
 
-Measuring Tape 
+*Measuring Tape 
 
-Masking Tape 
+*Masking Tape 
 
  
