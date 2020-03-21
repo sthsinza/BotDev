@@ -18,9 +18,9 @@ Time Allotment: 30 minutes
 
 Standards:           3.4.5. A3. Describe how technologies are often combined.  
 
-                     3.4.6. A3. Explain how knowledge from other fields of study (STEM) integrate to create new technologies.   
+  3.4.6. A3. Explain how knowledge from other fields of study (STEM) integrate to create new technologies.   
 
-                     3.4.6. D2. Use computers appropriately to access and organize and apply information 
+  3.4.6. D2. Use computers appropriately to access and organize and apply information 
 
  
 
