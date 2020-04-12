@@ -4,13 +4,13 @@ This is the official documentation for BotDev LLC
 
 ## Curricula
 
-- [Week 1](Week 1/readme.md)
-    - Getting started with your Raspberry Pi, including what you need and how to get it booted
-- [Week 2](Week 2/readme.md)
+- [Week 1](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week1/readme.md)
+    - Intro to STEMBot
+- [Week 2](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week%202/readme.md)
     - Intro to Mechanical Engineering
-- [Week 3](Week 4/readme.md)
+- [Week 3](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week%203/readme.md)
     - Intro to Programming
-- [Week 4](Week 5/readme.md)
+- [Week 4](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week%204/readme.md)
     - Intro to Electrical Engineering
-- [Week 5](Week 5/readme.md)
+- [Week 5](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week%205/readme.md)
   
