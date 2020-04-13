@@ -4,13 +4,13 @@ This is the official documentation for BotDev LLC
 
 ## Curricula
 
-- [Week 1](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week1/readme.md)
+- [Week_1](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/readme.md)
     - Intro to STEMBot
-- [Week 2](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week%202/readme.md)
+- [Week_2](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_2/readme.md)
     - Intro to Mechanical Engineering
-- [Week 3](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week%203/readme.md)
+- [Week_3](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/readme.md)
     - Intro to Programming
-- [Week 4](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week%204/readme.md)
+- [Week_4](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_4/readme.md)
     - Intro to Electrical Engineering
-- [Week 5](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week%205/readme.md)
+- [Week_5](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_5/readme.md)
   
