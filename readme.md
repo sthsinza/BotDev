@@ -13,4 +13,4 @@ This is the official documentation for BotDev LLC
 - [Week_4](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_4/readme.md)
     - Intro to Electrical Engineering
 - [Week_5](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_5/readme.md)
- - Assembling
+     - Assembling
