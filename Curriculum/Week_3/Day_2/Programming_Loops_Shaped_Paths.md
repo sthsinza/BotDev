@@ -21,6 +21,7 @@ Objective(s):      Students
 # INSTRUCTIONAL PROCEDURES 
 
 1.	Go through the Loops PowerPoint (15 min) 
+- [Loops Powerpoint](https://drive.google.com/drive/folders/16Djq43JydV66X6vxOkaF4u3-K6mG90Os)
 
 # Note: There are additional Notes on the PowerPoint that will be useful for the Presentation  
 
