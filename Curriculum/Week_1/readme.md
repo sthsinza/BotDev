@@ -5,7 +5,7 @@ This is the official documentation for BotDev LLC
 ## Curricula
 
 - [Day_1](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_1/Introduction_to_STEMBot.md)
-    -  Intro to STEMBot- Running the Maz
+    -  Intro to STEMBot- Running the Maze
 - [Day_2](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_2/Robotics.md)
     - Intro to Robotics- The Real-World Leap… Software Perfection to Hardware Realities
 - [Day_3](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_3/Communicating_with_STEMBot_Lesson_Plan.md)
