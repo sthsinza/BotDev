@@ -13,7 +13,7 @@ Time Allotment:	 30 minutes
   # What is your name? Write down below:
  - Type # to write your name in larger font.
  - Type ### to write your name in a medium-sized font.
- - Type (**) **Sinza** to write your name in bold.
+ - Type * before and after your name (Ex: **Sinza**) to write your name in bold.
   
  ## Write your name below:
   
