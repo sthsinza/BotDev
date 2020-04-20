@@ -2,6 +2,8 @@
 
 This is the official documentation for BotDev LLC
 
+- Test Curricula
+
 ## Curricula
 
 - [Intro_to_STEMBot](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/readme.md)
