@@ -7,7 +7,7 @@ Grade/Level:
 
 Time Allotment:	 10 minutes
 
-[**Click Here to Make Changes**](https://github.com/BotDevLLC/BotDevCurriculum/edit/master/test_curriculum.md)
+[**Click Here to Make Changes**](https://docs.botdev.io/test_curriculum.md)
 
 
 # INSTRUCTIONAL PROCEDURES 
