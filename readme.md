@@ -2,7 +2,7 @@
 
 This is the official documentation for BotDev LLC
 
-- [Test Curricula] (https://github.com/BotDevLLC/BotDevCurriculum/blob/master/test_curriculum.md)
+- [Test Curricula](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/test_curriculum.md)
 
 ## Curricula
 
