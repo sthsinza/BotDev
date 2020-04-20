@@ -7,7 +7,7 @@ Grade/Level:
 
 Time Allotment:	 10 minutes
 
-<a href="https://docs.botdev.io/index.html" target="_blank"><strong>Click Here to Make Changes</strong></a>
+<a href="https://docs.botdev.io/index.html" target="_blank"><strong>Click Here to Change the Content</strong></a>
 
 
 # INSTRUCTIONAL PROCEDURES 
