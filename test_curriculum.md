@@ -11,7 +11,7 @@ Time Allotment:	 15 minutes
 [**Click Here to Make Changes**](https://github.com/BotDevLLC/BotDevCurriculum/edit/master/test_curriculum.md)
 
 # INSTRUCTIONAL PROCEDURES 
-  # What is your name? Write down below:
+  ## What is your name? Write down below:
   
  - Type # to write your name in larger font.
  
