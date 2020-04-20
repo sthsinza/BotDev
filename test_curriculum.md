@@ -7,8 +7,7 @@ Grade/Level:
 
 Time Allotment:	 10 minutes
 
-[**Click Here to Change the Content**](<a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/test_curriculum.md" target="_blank")
-
+<a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/test_curriculum.md" target="_blank"" target="_blank">Change the Content Here</a>
 
 # INSTRUCTIONAL PROCEDURES 
   ## What is your name? Write down below:
