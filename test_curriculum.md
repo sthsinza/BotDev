@@ -11,11 +11,11 @@ Time Allotment:	 30 minutes
 
 # INSTRUCTIONAL PROCEDURES 
   # What is your name? Write down below:
-  Type # to write your name in larger font.
-  Type ### to write your name in a medium-sized font.
-  Type (**) *Sinza* to write your name in bold.
+ - Type # to write your name in larger font.
+ - Type ### to write your name in a medium-sized font.
+ - Type (**) *Sinza* to write your name in bold.
   
-  Write your name below:
+ ## Write your name below:
   
   
   
