@@ -1,4 +1,4 @@
-https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png?raw=true
+<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png?raw=true/>
 # VITAL INFORMATION
 Subject(s): Peer Testing
 
@@ -10,7 +10,6 @@ Time Allotment:	 10 minutes
 
 [**Click Here to Make Changes**](https://github.com/BotDevLLC/BotDevCurriculum/edit/master/test_curriculum.md)
 
-<a href="https://drive.google.com/drive/folders/1iboYVWrajdELofP_a84QwuE4QDCMNvG6" target="_blank">Presentation Test</a>
 
 # INSTRUCTIONAL PROCEDURES 
   ## What is your name? Write down below:
