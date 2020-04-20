@@ -20,7 +20,7 @@ Time Allotment:	 10 minutes
  - Type * before and after your name (Ex: **Sinza**) to write your name in bold.
   
  ## Write your name below:
- **Sinza Shrestha**
+ **SINZA SHRESTHA**
  
   
   
