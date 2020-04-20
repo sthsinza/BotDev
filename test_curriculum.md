@@ -1,12 +1,12 @@
 ![Image description](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png)
 # VITAL INFORMATION
-Subject(s): Robotics	 
+Subject(s): Peer Testing
 
-Topic or Unit: Introduction to STEMBot	
+Topic or Unit: Usability Testing
 
-Grade/Level: 	8th Grade
+Grade/Level: 	
 
-Time Allotment:	 30 minutes
+Time Allotment:	 15 minutes
 
 
 # INSTRUCTIONAL PROCEDURES 
