@@ -7,7 +7,7 @@ Grade/Level:
 
 Time Allotment:	 10 minutes
 
-<a href="https://docs.botdev.io/index.html" target="_blank"><strong>Click Here to Change the Content</strong></a>
+[**Click Here to Change the Content**](<a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/test_curriculum.md" target="_blank")
 
 
 # INSTRUCTIONAL PROCEDURES 
