@@ -1,4 +1,3 @@
-![Image description](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png)
 # VITAL INFORMATION
 Subject(s): Peer Testing
 
