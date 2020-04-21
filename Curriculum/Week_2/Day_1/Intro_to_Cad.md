@@ -41,7 +41,7 @@ a. Start by asking students what they already know about CAD and have a brief cl
 
   # Body
   Go through supplementary PowerPoint (Introduction to Cad and Feature Based design) through the first part focused on introducing CAD (20 min) 
-   - [Introduction to Cad Powerpoint](https://drive.google.com/drive/folders/1iboYVWrajdELofP_a84QwuE4QDCMNvG6)
+   - [Introduction to Cad Powerpoint](<a href="https://drive.google.com/drive/folders/1iboYVWrajdELofP_a84QwuE4QDCMNvG6" target="_blank"/>)
 
   # Note: There are additional Notes on the PowerPoint that will be useful for the Presentation  
  b.  Review Progress Check questions at the end of the PowerPoint 
