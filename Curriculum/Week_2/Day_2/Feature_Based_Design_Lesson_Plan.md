@@ -31,7 +31,7 @@ Assessment(s):
 A.	Anticipatory Set: 
 
 a.	Go Through Feature Based Design PowerPoint (10 min)
-   - [Feature Based Design PowerPoint]("https://drive.google.com/drive/folders/12jIEzCcGLLHqrG3YylpmaBb-wAH0_pXO" target="_blank)
+   -  <a href="https://drive.google.com/drive/folders/12jIEzCcGLLHqrG3YylpmaBb-wAH0_pXO" target="_blank">Feature Based Design PowerPoint</a>
 
 b.	Review Progress Check Questions (5 min)
 
