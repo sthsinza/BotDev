@@ -5,7 +5,7 @@ Topic or Unit: Usability Testing
 
 Grade/Level: 	
 
-Time Allotment:	 10 minutes
+Time Allotment:	 30 minutes
 
 <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/test_curriculum.md" target="_blank">Change the Content Here</a>
                                                                                                                        
