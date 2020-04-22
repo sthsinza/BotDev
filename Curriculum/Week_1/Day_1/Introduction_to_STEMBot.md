@@ -1,6 +1,5 @@
 ![Image description](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png)
 # VITAL INFORMATION
-Sydney Oyatta
 Subject(s): Robotics	 
 
 Topic or Unit: Introduction to STEMBot	
