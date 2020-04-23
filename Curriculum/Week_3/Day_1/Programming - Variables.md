@@ -18,7 +18,7 @@ Objective(s):      Students should make the STEMBot reach its destination by ass
 
 # INSTRUCTIONAL PROCEDURES 
   1.	Go through the Variables PowerPoint (15 min) 
-  - [Variables PowerPoint](https://drive.google.com/drive/folders/10ihzOKchmn2pLq6i7ZeUHs4Oh0055CV5)
+  - <a href="https://drive.google.com/drive/folders/10ihzOKchmn2pLq6i7ZeUHs4Oh0055CV5" target="_blank">Variables      PowerPoint</a>
 
 # Note: There are additional Notes on the PowerPoint that will be useful for the Presentation  
 
@@ -35,6 +35,6 @@ Objective(s):      Students should make the STEMBot reach its destination by ass
 * Internet (Optional if the STEMBot has its own router) 
 * Measuring Tape 
 * Masking Tape/Coin
-* VARIABLES PRESENTATION
+* <a href="https://drive.google.com/drive/folders/10ihzOKchmn2pLq6i7ZeUHs4Oh0055CV5" target="_blank">Variables PowerPoint</a>
 
 
