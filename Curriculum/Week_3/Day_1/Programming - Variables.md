@@ -35,6 +35,6 @@ Objective(s):      Students should make the STEMBot reach its destination by ass
 * Internet (Optional if the STEMBot has its own router) 
 * Measuring Tape 
 * Masking Tape/Coin
-* Variable Presentation
+* VARIABLES PRESENTATION
 
 
