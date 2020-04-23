@@ -1,6 +1,4 @@
-# BotDev Documentation
-
-This is the official documentation for BotDev LLC
+[![button](https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/back_button.png)](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/readme.md)
 
 ## Curricula
 
