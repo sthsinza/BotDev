@@ -1,8 +1,6 @@
-# BotDev Documentation
+[![button](https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/back_button.png)](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/readme.md)
 
-This is the official documentation for BotDev LLC
-
-## Curricula
+## Intro To STEMBot
 
 - [Day_1](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_1/Introduction_to_STEMBot.md)
     -  Intro to STEMBot- Running the Maze
