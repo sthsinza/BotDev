@@ -39,5 +39,5 @@ b.	See Week 1 Day 4 unit: “Basic CLI Commands and Running Python Code from Ter
 * Computer(s) 
 * Internet (Optional if the STEMBot has its own router) 
 * Measuring Tape 
-* Masking TAPE
+* Masking Tape
 
