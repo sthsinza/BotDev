@@ -1,4 +1,7 @@
 ![Image description](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png) 
+
+[![button](https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/back_button.png)](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_2/readme.md)
+
 # VITAL INFORMATION
 Subject(s):  Intro to CADing...the Right Way
 
@@ -32,7 +35,7 @@ A.	Anticipatory Set:
 
 a.	Go Through Feature Based Design PowerPoint (10 min)
 
-- <a href="https://drive.google.com/drive/folders/1iboYVWrajdELofP_a84QwuE4QDCMNvG6" target="_blank">TEST 5</a>
+- <a href="https://drive.google.com/drive/folders/1iboYVWrajdELofP_a84QwuE4QDCMNvG6" target="_blank">Feature Based PowerPoint</a>
 
 b.	Review Progress Check Questions (5 min)
 
