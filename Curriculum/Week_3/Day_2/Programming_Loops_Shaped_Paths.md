@@ -17,9 +17,9 @@ Standards:
 
    15.4.12.H. Use programming languages to develop logical thinking and problem-solving skills.
 
-Unit Goal(s):      By the end of the unit, students will
+Unit Goal(s):      By the end of the unit, students will use an algorithm to make the STEMBot move and complete a square     path. Students will also have an understanding of geometry. 
 
-Objective(s):      Students
+Objective(s):       Students should measure the path between four boxes, each box being the corner of a square and be able to program the STEMBot to move between those four boxes, completing the square path. Students should also measure the distance and degree of angles to make the robot form a right angle and equilateral triangle 
 
 # INSTRUCTIONAL PROCEDURES 
 
@@ -40,6 +40,6 @@ Objective(s):      Students
 * Internet (Optional if the STEMBot has its own router) 
 * Measuring Tape 
 * Masking Tape/Coin
-* Variable Presentation
+* Loops Presentation
 
 
