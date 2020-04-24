@@ -41,5 +41,5 @@ Objective(s):      Students should set up a circuit with Led light and make it b
 * LED light(s)
 * Jumper Wires
 * Resistors
-* LED Blink Presentation
+* LED Blink PowerPoint
 
