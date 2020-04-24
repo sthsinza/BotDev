@@ -33,6 +33,7 @@ STEMBot is a robot designed for learning. STEMBot is an open source project with
 3.	The motor drivers use integrated circuits to switch the electrical current to different coils in the motor to make it rotate.  This falls into the electrical engineering field, while the program to control the STEMBot can be considered to be part of the Software Engineering field.  The physical design of the STEMBot falls into the Mechanical Engineering field.  And lots of math is required.  A programmer must calculate the circumference of the wheels to determine how to make the STEMBot move forward a designated distance or turn a specified number of degrees.  (Review the code in the “FirstRun.py” program for more details).  Discuss these various STEM fields with students. 
 
 4.	Instructor will then open VNC into the raspberry pi and open the “FirstRun.py” program on the Desktop. Describe the functions programmed at the bottom (move, turn, etc).
+
 a.	See Week 1 Day 3 unit: “Communicating with STEMBot” for VNC guidance.
 b.	See Week 1 Day 4 unit: “Basic CLI Commands and Running Python Code from Terminal” for guidance in running Python programs. 
 
