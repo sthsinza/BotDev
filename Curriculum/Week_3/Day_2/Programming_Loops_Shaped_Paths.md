@@ -1,4 +1,7 @@
 ![Image description](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png)
+
+[![button](https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/back_button.png)](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/readme.md)
+
 # VITAL INFORMATION
 Subject(s):          Programming	 
 
@@ -21,7 +24,7 @@ Objective(s):      Students
 # INSTRUCTIONAL PROCEDURES 
 
 1.	Go through the Loops PowerPoint (15 min) 
-- [Loops Powerpoint](https://drive.google.com/drive/folders/16Djq43JydV66X6vxOkaF4u3-K6mG90Os)
+- <a href="https://drive.google.com/drive/folders/16Djq43JydV66X6vxOkaF4u3-K6mG90Os" target="_blank">Loops PowerPoint</a>
 
 # Note: There are additional Notes on the PowerPoint that will be useful for the Presentation  
 
