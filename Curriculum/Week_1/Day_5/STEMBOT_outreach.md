@@ -1,3 +1,5 @@
+<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png>
+
 # VITAL INFORMATION
 Subject(s):  Robotics
 
