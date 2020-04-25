@@ -27,6 +27,7 @@ a.	Begin the lecture by asking first what a parameter is. Allow for students to 
 
 B.	Body:  Move forward and start with the presentation. 
 
+<a href="https://drive.google.com/drive/folders/1G4EWAjT57GOxxfZdoEh-NuxwVciLKbaI" target="_blank">Parameter and function</a>
    
 
 # MATERIALS AND RESOURCES
