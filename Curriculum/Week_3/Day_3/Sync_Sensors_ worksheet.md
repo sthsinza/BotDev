@@ -9,3 +9,4 @@ Hint 2: Look for the different conditional statements within the program, such a
 
 Hint 1: Think back to the PowerPoint
 
+<a href="https://drive.google.com/drive/folders/1frooq8Jt2L3_Z-nzUFSuDggCYjY1j77p" target="_blank">Conditional statement powerpoint</a>
