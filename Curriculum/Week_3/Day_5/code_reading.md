@@ -24,6 +24,8 @@ Objective(s):      Students should be able to understand and explain what each l
 
 1.	Go through the Code Reading PowerPoint (15 min) 
 
+<a href="https://drive.google.com/drive/folders/1TlCjP6Bkpg13Qsw1Cs8BklpU52qCTcjN">Code Reading PowerPoint</a>
+
 Note: There are additional Notes on the PowerPoint that will be useful for the Presentation  
 
 2.	Last slide of the powerpoint includes the activity for this day. 
