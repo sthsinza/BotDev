@@ -1,4 +1,4 @@
-<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/Botdev.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/Botdev.png height="3.04" width="13.06">
 
 [![button](https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/back_button.png)](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/readme.md)
 
