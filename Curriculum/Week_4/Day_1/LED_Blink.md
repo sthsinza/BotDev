@@ -40,6 +40,6 @@ Objective(s):      Students should set up a circuit with Led light and make it b
 * Raspberry Pi(s)
 * LED light(s)
 * Jumper Wires
-* Resistors
+* Resistor
 * LED Blink PowerPoint
 
