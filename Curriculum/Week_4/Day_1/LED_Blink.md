@@ -23,6 +23,7 @@ Objective(s):      Students should set up a circuit with Led light and make it b
 
 # INSTRUCTIONAL PROCEDURES 
  1.	Go through the Led Blink PowerPoint (15 min) 
+ - <a href="https://drive.google.com/drive/folders/1XHUoWgNGQpvZXt5vsvgrbWCCCwMWmi-B" target="_blank">LED Blink PowerPoint</a>
 
 # Note: There are additional Notes on the PowerPoint that will be useful for the Presentation  
 
