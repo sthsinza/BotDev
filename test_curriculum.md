@@ -17,6 +17,10 @@ Time Allotment:	 30 minutes
  
  - Type * before and after your name (Ex: **Sinza**) to write your name in bold.
   
+  
+  TRAVIS WAS HERE LOLOLOL
+  
+  
  ## Write your name below:
  **Sinza Shrestha**
  **Grishma DANGOL**
