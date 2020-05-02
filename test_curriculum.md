@@ -27,6 +27,6 @@ Time Allotment:	 30 minutes
 ** Nelson Castillo**
 **Sinza Shrestha**
 # Marilee FBW - Khalid
-**Sinza**
-  
+**Sinza Shrestha**
+
 
