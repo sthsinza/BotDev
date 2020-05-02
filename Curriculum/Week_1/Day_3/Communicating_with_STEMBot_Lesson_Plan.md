@@ -39,33 +39,33 @@ Assessment(s):
   # B. Body: 
 Before beginning both the Raspberry Pi and your host computer must be on the same internet connection!
 1.	Plug in Raspberry Pi to monitor, keyboard and a mouse. Open the terminal by choosing Menu > Accessories > Terminal)
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%201.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%201.png>
 
 2.	Type ipconfig to check the IP address of the Raspberry Pi
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%202.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%202.png>
 3.	Check the IP address of the Raspberry Pi at the wlan0 part that shows inet followed by an IP Address... normally something similar to 192.168.1.101
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%203.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%203.png>
 
 4.	Ensure that VNC is enabled on your Raspberry Pi.  Click on the raspberry logo in the upper left corner and select Preferences > Raspberry Pi Configuration.  Click on the second tab in the window that pops up and make sure that the radio button next to Enable to the right of VNC is selected.
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%204.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%204.png>
 
 
 5.	Download Real VNC Viewer from your browser by clicking download VNC Viewer and run the executable file
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%205.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%205.png>
 
 6.	Run the executable file to install the program on your device. Open the program once completed.
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%206.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%206.png>
 
 7.	Enter the IP Address of the Raspberry Pi in the VNC Viewer at the top bar to connect to it. You will be prompted to enter a username and password.
 
 Username: pi
 Password: raspberry
 
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%207.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%207.png>
 
 
 8.	An alternative to using ifconfig to get its IP address -which requires a monitor and keyboard-, is to use the Smart Phone App “ Fing” that can be downloaded on the App store and Play store.  Simply connect your phone to the same Wi-Fi, open the app and scan the network.  Then look for your Raspberry Pi’s name and the IP address will be next to it.
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%208.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%208.png>
 
 
 
