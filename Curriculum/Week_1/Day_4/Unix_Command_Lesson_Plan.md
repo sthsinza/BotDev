@@ -45,54 +45,54 @@ UNIX commands are the syntaxes are used in the terminal for the user to navigate
 ## **Note: UNIX is case sensitive**
 ### i.	ls
 ls allows the users to list all the files in a directory (folder).
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%209.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%209.png>
 
 ### ii.	ls –l
 Ls –l lists all the files in a directory in a long format. Long format shows all the detailed information of the files such as the ownership of the files, who can view and edit the file and the exact file size.
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2010.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2010.png>
 
 ### iii.	cd 
 cd means “change directory”, which simply allows the users to go from one file to another. Typing cd DirectoryName in the terminal makes the users go from one directory to another. 
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2011.png>
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2011.png>
 
 ### iv.	cd ..
 cd .. is the “Back” button syntax for the terminal. Whenever a user wants to go back to the previous directory, they can just type cd ..
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2012.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2012.png>
 
 ### v.	pwd
 pwd tells the users where they currently are.
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2013.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2013.png>
 
 ### vi.	clear
 As the name suggests, clear cleans up the terminal and removes all the other syntaxes from the terminal.
 
 ### vii. ctrl + c
 This command allows the user to stop running the code that is running for a longer period.
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2014.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2014.png>
 
 ### viii. python
 python allows the user to execute the python codes that have been programmed.
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2015.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2015.png>
 
 ### ix.	cat
 Cat allows the users to read the content in a file. To use the command, user can simply type cat fileName. 
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2016.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2016.png>
 
 ### x.	mkdir
 Users can create directories using the command mkdir. To use the command, they can type mkdir directoryName.
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2017.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2017.png>
 
 ### xi.	rm –d
 rm –d allows the users to delete the directories (which has the appropriate permissions). rm –d directoryName deletes the directory.
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2018.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2018.png>
 
 ### xii. nano
 nano is a text editor in the terminal which allows the user to write text files and shell script using different language like Python and C++.
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2019.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2019.png>
 
 ### xiii. rm
 rm allows the users to delete files from the directories. rm fileName deletes the file.
- <img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/pic%2020.png>
+ <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%2020.png>
 
 
 C.	Closure: 
