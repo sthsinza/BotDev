@@ -1,4 +1,6 @@
-### Q1.  If the object is 300 cm away from the ultrasonic sensor, how long in seconds does the sound wave need to travel?
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/Botdev.png height="228" width="980">
+
+**Q1.  If the object is 300 cm away from the ultrasonic sensor, how long in seconds does the sound wave need to travel?**
 
 Step 1: 
 
@@ -37,7 +39,7 @@ Time * 340 340 = 6340
 Time = 6340sec = 0.018 sec
 
 
-###Q2.  If it takes 2 second for the sound wave to travel forward and bounce back, how far is the object from the ultrasonic sensor? Can the ultrasonic sensor (HC-SR04) we discussed in class measure this distance?
+**Q2.  If it takes 2 second for the sound wave to travel forward and bounce back, how far is the object from the ultrasonic sensor? Can the ultrasonic sensor (HC-SR04)** we discussed in class measure this distance?
 
 Given, 
 	Time = 2 s
