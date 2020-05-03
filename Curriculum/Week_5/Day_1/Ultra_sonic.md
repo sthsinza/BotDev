@@ -1,4 +1,4 @@
-<img src=https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Pictures/Botdev.png>       
+<img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/Botdev.png height="228" width="980">
 
 # VITAL INFORMATION
 
