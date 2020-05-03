@@ -15,4 +15,5 @@ This is the official documentation for BotDev LLC
 - [Advanced_Electrical_Engineering](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_4/readme.md)
     - If you are going to design and build robots, you’ll need to know how to supply motors, actuators, sensors, and microcontrollers with electrical power to exacting specifications.  If your robot is going to have any degree of autonomy, it will need to use sensors to detect and model its environment.  The focus of this week is to familiarize the students with the design and construction of power systems, operation of sensors and motors, and addressing and signal protocols of General Purpose Input/Output Pins(GPIO) on a microcontroller. 
 - [Further Exploration](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_5/readme.md)
+    - This week is all about supplementary materials
      
