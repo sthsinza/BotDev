@@ -2,7 +2,7 @@
 
 **Q1.  If the object is 300 cm away from the ultrasonic sensor, how long in seconds does the sound wave need to travel?**
 
-Step 1: 
+```Step 1: 
 
  We know that the speed of sound = 340 m/s. Since the object distance is given in cm, we either need to convert the distance in meters or speed of sound in centimeters. 
 
@@ -37,10 +37,11 @@ Dividing both sides by 340 we get,
 Time * 340 340 = 6340
 
 Time = 6340sec = 0.018 sec
+```
 
 
 **Q2.  If it takes 2 second for the sound wave to travel forward and bounce back, how far is the object from the ultrasonic sensor? Can the ultrasonic sensor (HC-SR04)** we discussed in class measure this distance?
-
+```
 Given, 
 	Time = 2 s
 We know that, 
@@ -64,7 +65,7 @@ Plugging in the know values in the equation we have,
 Therefore, Distance = 340 m 
 
 No, HC-SR04 can only measure distance up to 5 meters. 
-
+```
 
 
 
