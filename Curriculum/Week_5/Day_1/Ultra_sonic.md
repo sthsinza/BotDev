@@ -28,7 +28,7 @@ Objective(s):      Students should be able to do simple distance calculation and
 
 1.	Go through the UltrasonicSensor PowerPoint (15 min) 
 
-<a href="https://drive.google.com/drive/folders/10wZY2EHtWWunkD425uKqsq4-I2B7r83B" target="_blank">Ultrasonic Sensor PowerPoint</a>
+<a href="https://docs.google.com/presentation/d/1V1wRoCYQI6Y0Uk_v1vpk8p6eTLpKkWCr" target="_blank">Ultrasonic Sensor PowerPoint</a>
 
 Note: There are additional Notes on the PowerPoint that will be useful for the Presentation  
 
