@@ -2,7 +2,7 @@
 # VITAL INFORMATION
 Subject(s): Let's do Peer Testing
 Carley is Cool
-# Josh Smith
+# Botdev
 Topic or Unit: Usability Testing
 
 Grade/Level: 	12
