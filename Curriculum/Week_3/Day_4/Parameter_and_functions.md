@@ -36,4 +36,6 @@ B.	Body:  Move forward and start with the presentation.
 * “Parameter and Function” PowerPoint Presentation file
 * Projector
 * Computer
+* <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/Day_4/function.py" target="_blank">Function Python Code</a>
+
 
