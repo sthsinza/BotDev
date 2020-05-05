@@ -40,7 +40,7 @@ Objective(s):       Students should measure the path between four boxes, each bo
 * Internet (Optional if the STEMBot has its own router) 
 * Measuring Tape 
 * Masking Tape/Coin
-* Loops Presentation
+* <a href="https://docs.google.com/presentation/d/1LS0-VEds5nD3ms3RD5RpJVKbdKvR9UHS/edit?dls=true" target="_blank">Loops Presentation</a>
 * <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/Day_2/Loops.py" target="_blank">Loops Python Code</a>
 
 
