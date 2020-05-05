@@ -65,7 +65,7 @@ Students will make the STEMBot move along a given track in the allocated time by
 * Working STEMBot(s)
 * Measuring Tape(s)
 * Track 
-
+* <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_1/firstRun%20(1).py" target="_blank">First Run Python Code</a>
 
 
 
