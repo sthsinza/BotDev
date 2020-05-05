@@ -41,5 +41,6 @@ Objective(s):       Students should measure the path between four boxes, each bo
 * Measuring Tape 
 * Masking Tape/Coin
 * Loops Presentation
+* <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/Day_2/Loops.py" target="_blank">Loops Python Code</a>
 
 
