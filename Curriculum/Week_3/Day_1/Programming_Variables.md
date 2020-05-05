@@ -39,6 +39,6 @@ Objective(s):      Students should make the STEMBot reach its destination by ass
 * Measuring Tape 
 * Masking Tape/Coin
 * <a href="https://drive.google.com/drive/folders/10ihzOKchmn2pLq6i7ZeUHs4Oh0055CV5" target="_blank">Variables PowerPoint</a>
-* <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/Day_1/Variable_Exercise.py" target="_blank">First Run Python Code</a>
+* <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/Day_1/Variable_Exercise.py" target="_blank">Variable Exercise Python Code</a>
 
 
