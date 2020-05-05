@@ -43,4 +43,6 @@ Objective(s):      Students should set up a circuit with Led light and make it b
 * Jumper Wires
 * Resistor
 * LED Blink PowerPoint
+* <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_4/Day_1/LED_Blink.py" target="_blank">LED Blink Python Code</a>
+
 
