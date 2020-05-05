@@ -41,6 +41,7 @@ Note: There are additional Notes on the PowerPoint that will be useful for the P
 * Internet (Optional if the STEMBot has its own router)
 * Measuring Tape
 * Code Reading Presentation
+* <a href="https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/Day_5/Sync_Sensors.py" target="_blank">Sync Sensors Python Code</a>
 
 
 
