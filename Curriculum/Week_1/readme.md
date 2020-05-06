@@ -1,5 +1,3 @@
-[![button](https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/back_button.png)](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/readme.md)
-
 ## Intro To STEMBot
 
 - [Day_1](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_1/Introduction_to_STEMBot.md)
