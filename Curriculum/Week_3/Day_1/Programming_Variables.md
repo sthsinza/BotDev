@@ -1,7 +1,5 @@
 <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/Botdev.png height="228" width="980">
 
-[![button](https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/back_button.png)](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_3/readme.md)
-
 # VITAL INFORMATION
 Subject(s):          Programming	 
 
